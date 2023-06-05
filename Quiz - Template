@@ -1,0 +1,58 @@
+int sunX = 0 ;
+int bgColorDay = #089EFF;
+int bgColorNight = #0218CE;
+int bgColor = bgColorDay;
+
+int sunColor = #FEFF00;
+int moonColor = #EBEDED;
+int rockColor = sunColor;
+
+int count = 0;
+
+void setup(){
+  
+  //size of the canvas
+  
+
+}
+
+void draw(){ 
+  
+  //background color 
+  //background();
+  
+  //this will create the grass
+  
+  
+  //This will create a house
+  
+  
+  //This will draw the door of the house
+ 
+  
+  //This is will create the roof
+  
+  
+  //This will create the sun
+  
+  
+  //This will make the sun move to the right
+  
+  
+  //if(sunX > width + 75 ){
+  //   count++;
+  //   sunX = -75;
+  //}
+  
+  //if(count % 2 ==0){
+    
+  //   bgColor = bgColorDay;
+  //   rockColor = sunColor;
+     
+  //}else{
+      
+  //   bgColor = bgColorNight;
+  //   rockColor = moonColor; 
+  //}
+  
+}
